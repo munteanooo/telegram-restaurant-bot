@@ -1,0 +1,56 @@
+{
+  "5830706445": {
+    "current_order": {},
+    "last_completed_order": {
+      "order_type": "La masă",
+      "time": "14:00",
+      "people_count": 2,
+      "items": {
+        "pizza_margherita": 1,
+        "salata_caesar": 2
+      },
+      "total": 61.0,
+      "date": "24.08.2025 17:01"
+    },
+    "order_type": null,
+    "time": null,
+    "people_count": null
+  },
+  "1649715225": {
+    "current_order": {},
+    "last_completed_order": {
+      "order_type": "La masă",
+      "time": "19:00",
+      "people_count": 8,
+      "items": {
+        "salata_caesar": 3,
+        "cheesecake": 10,
+        "supa_pui": 5,
+        "pizza_margherita": 3
+      },
+      "total": 339.0,
+      "date": "24.08.2025 16:22"
+    },
+    "order_type": null,
+    "time": null,
+    "people_count": null
+  },
+  "1004320148": {
+    "current_order": {},
+    "last_completed_order": {
+      "order_type": null,
+      "time": null,
+      "people_count": null,
+      "items": {
+        "friptura_vita": 1,
+        "cheesecake": 2,
+        "supa_pui": 5
+      },
+      "total": 125.0,
+      "date": "24.08.2025 17:01"
+    },
+    "order_type": null,
+    "time": null,
+    "people_count": null
+  }
+}
