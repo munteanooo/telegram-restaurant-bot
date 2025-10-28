@@ -59,13 +59,6 @@ telegram-restaurant-bot/
 
 ---
 
-## 📌 Future improvements
-- [ ] Store orders in a database  
-- [ ] Admin dashboard for the restaurant  
-- [ ] Online payment integration  
-
----
-
 ## 👨‍💻 Author
 - **Sergiu Muntean** – [GitHub](https://github.com/munteanooo)
 
